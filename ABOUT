@@ -1,0 +1,6 @@
+USER LOGIN INTERFACE USING JAVA
+
+This Java Swing application provides a simple user login interface.
+
+Users are prompted to enter their credentials(username and password).
+The application incoperates features like password hashing,input validation and error handling.Additionally, it implements a user-friendly interface with clear instructions and visual feedback.
